@@ -1,0 +1,6 @@
+summarization_model
+glove.6B.100d.txt
+glove.6B.200d.txt
+cm
+output
+glove.6B.100d.tar.xz
